@@ -1,1 +1,1 @@
-# Design-patters-python
+## Design patterns python repository from Alura course
